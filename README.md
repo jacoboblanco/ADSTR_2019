@@ -1,21 +1,11 @@
 # ADSTR_2019
-Assignatura ADSTR 2019-2020 www.EUSS.cat
+Asignatura ADSTR 2019-2020 www.euss.cat
 
-Descarga fichero de Github
-git clone https://github.com/Californicat92/ADSTR_2019.git
+git clone https://github.com/jacoboblanco/ADSTR_2019.git
 
-For update you dir
-cd ADSTR_2019/ (enter)
-git pull
+Diseño e implementación de aplicación de control de un sistema embedded con RaspberryPi y placas de expansión que monitoriza diferentes parámetros de la estación solar del centro. 
 
-For update
-git status (enter)
-git add "ruta/fitxer" (enter)
-git commit -m "(afegir text)" (enter)
-git push (enter)
-user Github (enter)
-pass Github (enter)
+Uso de C y Sqlite. Desarollado en Linux Ubuntu. 
 
-For change mod:
-ls -als (executable)
-chmod +777 (executable)
+Más detalles en la carpeta doc.
+
